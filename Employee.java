@@ -3,11 +3,11 @@ class Employee{
     String name;
     double salary;
     String role ;
-}
-class Main{
-    public static void main(String[] arg){
-        System.out.println("This is employee java file");
-        System.out.println("This is small change file");
 
+    public void searchbyEmployeeId(){
+        System.out.println("This is search by employee id method");
+    }
+    public void searchbyEmployeeName(){
+        System.out.println("This is search by employee name method");
     }
 }
