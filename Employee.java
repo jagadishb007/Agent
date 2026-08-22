@@ -7,6 +7,7 @@ class Employee{
 class Main{
     public static void main(String[] arg){
         System.out.println("This is employee java file");
+        System.out.println("This is small change file");
 
     }
 }
