@@ -9,3 +9,6 @@ A simple Java application for managing employee details.
 - Increase employee salary
 
 Adding new meg in the Employee java file for clear understanding.
+
+# Now i going to learn or use restore property.
+ubebeeifnefn
